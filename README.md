@@ -1,17 +1,17 @@
 # controler_LEDS_FPGA
 à l'aide d'une carte PFGA et programmation VHDL 
 
-HARDWARE : 
+#HARDWARE : 
          - FPGA : CYCLONE II EP2C35F672C8
          - ALIMENTATION DU CARTE FPGA 
          - CABLE USB POUR LA CONNEXION ENTRE PC ET LA CARTE 
          
 
 
-SOFTWARE : 
+#SOFTWARE : 
      - QUARTUS II 
      
- les étapes à suivre dans logiciel quartus II : 
+#les étapes à suivre dans logiciel quartus II : 
        - crée un projet "TP1" 
        - choisir un fichier de type VHDL 
        - tapez le code dans au dessus 
