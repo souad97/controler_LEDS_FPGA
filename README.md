@@ -1,2 +1,2 @@
 # controler_LEDS_FPGA
-a l'aide d'une carte PFGA et programmation VHDL 
+à l'aide d'une carte PFGA et programmation VHDL 
